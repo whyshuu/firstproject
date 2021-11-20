@@ -18,6 +18,13 @@ To pull the remote[ remote code in server ] change into local[ local computer ]
 ```
 
 
-Why Shu
+- Push my local change to remote
 
+```sh
+git status - see what you changed
+git add .   -  will add changes to repo
+git commit -m "my comment description". - will add a commit
+git push   -  pushes changes to remote
+
+```
 
