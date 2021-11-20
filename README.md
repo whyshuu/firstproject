@@ -6,4 +6,4 @@
 - Cloned using 
 > _git clone https://github.com/whyshuu/firstproject.git_
 > 
-> _git pull_ to pull the remote[remote code in server] change into local[local computer]
+> _git pull  to pull the remote[remote code in server] change into local[local computer]_
