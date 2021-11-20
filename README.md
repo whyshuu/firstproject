@@ -6,13 +6,13 @@
 
 ```sh
 Cloned using 
-git clone https://github.com/whyshuu/firstproject.git
+command -> git clone https://github.com/whyshuu/firstproject.git
 
 ```
 
 ```sh
 Pull repo 
-git pull
+command -> git pull
 To pull the remote[ remote code in server ] change into local[ local computer ]
 
 ```
