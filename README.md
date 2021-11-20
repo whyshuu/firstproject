@@ -11,7 +11,7 @@ command -> git clone https://github.com/whyshuu/firstproject.git
 ```
 
 ```sh
-Pull repo 
+Pull repo -  for day to day pull the latest code from remote
 command -> git pull
 To pull the remote[ remote code in server ] change into local[ local computer ]
 
